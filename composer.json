@@ -24,7 +24,7 @@
         "doctrine/common": "^2.7.1",
         "doctrine/dbal": "^2.6",
         "doctrine/instantiator": "~1.1",
-        "symfony/console": "~3.0|~4.0"
+        "symfony/console": "2.8.*"
     },
     "require-dev": {
         "doctrine/coding-standard": "^5.0",
